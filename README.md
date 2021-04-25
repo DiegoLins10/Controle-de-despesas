@@ -9,5 +9,5 @@ Criação de um sistema de controle de despesas que registra sua entrada de rece
 - Web Storage API
 
 ### Imagem exemplo do sistema
-![](https://github.com/DiegoLins10/Pokedex/blob/origin/pokedex2.png)
+![](https://github.com/DiegoLins10/Controle-de-despesas/blob/origin/controle%20de%20despesas.png)
 
